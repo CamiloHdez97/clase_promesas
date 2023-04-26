@@ -4,3 +4,7 @@ const getUser = () => {
 		username: 'El_Papi1502'
 	}
 }
+
+console.log(getUser());
+const user = getUser();
+console.log(user);
